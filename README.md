@@ -1,1 +1,2 @@
-## Will be updated soon
+# Lectorium
+Will be updated soon 
