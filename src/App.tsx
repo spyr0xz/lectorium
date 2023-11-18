@@ -1,10 +1,13 @@
 import React from 'react';
-import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-     
+    <div className='container mx-auto'>
+      <div className=''>
+        <p className='bg-red-400 max-w-100%'>lets code2</p>
+      </div>
+      
     </div>
   );
 }
